@@ -1,12 +1,6 @@
 class Layer4:
     #Transport Layer(UDP segment)
-<<<<<<< HEAD
-    
-    #hello test change nanasa
-=======
-    ### testing
-
->>>>>>> 4fad1904155fdfa3390cb8f5ff8db9b2c5fb4c44
+    #new test nanasa 
     def __init__(self, src_port, dst_port, data):
         self.src_port = src_port
         self.dst_port = dst_port
